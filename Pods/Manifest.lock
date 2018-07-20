@@ -1,0 +1,16 @@
+PODS:
+  - DGElasticPullToRefresh (1.1)
+
+DEPENDENCIES:
+  - DGElasticPullToRefresh (~> 1.1)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - DGElasticPullToRefresh
+
+SPEC CHECKSUMS:
+  DGElasticPullToRefresh: 28f11a6026302a90f8ffebbc6e24748e584dddd3
+
+PODFILE CHECKSUM: d7930f7e5800b2260bfde1a8e27d73f96e13f895
+
+COCOAPODS: 1.5.3
